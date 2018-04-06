@@ -12,6 +12,8 @@
 
 
   * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
+  * [Custom Vision Service Docs](https://docs.microsoft.com/en-gb/azure/cognitive-services/custom-vision-service/home)
+  * [Image Classification using Azure Machine Learning Workbench](https://docs.microsoft.com/en-us/azure/machine-learning/preview/scenario-image-classification-using-cntk)
 ***
 ## Random
 
