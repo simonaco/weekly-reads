@@ -14,6 +14,11 @@
   * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
   * [Custom Vision Service Docs](https://docs.microsoft.com/en-gb/azure/cognitive-services/custom-vision-service/home)
   * [Image Classification using Azure Machine Learning Workbench](https://docs.microsoft.com/en-us/azure/machine-learning/preview/scenario-image-classification-using-cntk)
+  * [Not Hotdog: An R image classification application, using the Custom Vision API](http://blog.revolutionanalytics.com/2018/04/not-hotdog.html)
+***
+## Serverless
+  * [Cold starts](https://medium.freecodecamp.org/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-45078231fe7c)
+
 ***
 ## Random
 
