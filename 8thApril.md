@@ -10,6 +10,7 @@
 
   * [Top 10 Machine Learning Gotchas - Paige Bailey](https://youtu.be/q35jlAD_jQ4)
   * [Paige Bailey - Applied AI: Real-world use cases for Microsoft's Azure Cognitive Services](https://youtu.be/jGEgYNwWs1Q)
+  * [Seth Juarez - Intro to deep learning](https://youtu.be/jhtmloCfAbM)
   * [Interpreting machine learning models](https://towardsdatascience.com/interpretability-in-machine-learning-70c30694a05f)
 ***
 ## Serverless
