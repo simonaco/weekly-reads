@@ -16,3 +16,4 @@
 
 
   * [Want to Improve Efficiency? Stop Doing Low-Value Work](https://medium.com/the-mission/want-to-improve-efficiency-stop-doing-low-value-work-41ad87e5c640)
+  * [SpaceX](https://www.ted.com/talks/gwynne_shotwell_spacex_s_plan_to_fly_you_across_the_globe_in_30_minutes)
