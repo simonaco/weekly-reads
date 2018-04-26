@@ -9,6 +9,7 @@
 ***
 ## Serverless
   * [Azure Durable Functions Pattern: Approval Workflow with Slack](https://blog.mexia.com.au/azure-durable-functions-approval-workflow-with-slack)
+  * [Azure Container Instances GA](https://azure.microsoft.com/en-us/blog/azure-container-instances-now-generally-available/)
 
 ***
 ## Random
